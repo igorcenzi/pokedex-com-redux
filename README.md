@@ -20,4 +20,5 @@ O objetivo desde projeto foi praticar Redux e Redux-Thunk com consumo de API.
 
 #
 
-Você pode testar a aplicação neste <a href=''>link</a>.
+Você pode testar a aplicação neste <a href='https://pokedex-com-redux.vercel.app'>link</a>.
+
